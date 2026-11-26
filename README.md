@@ -2,13 +2,27 @@
 
 Sistema de gestão empresarial desenvolvido para pequenos negócios que desejam organizar suas operações, acompanhar resultados e ter mais controle sobre suas atividades.
 
-🔗 **Aplicação online:** https://nexus-dashboard-dun-seven.vercel.app/
+🔗 **Aplicação online:** [Acessar NEXUS](https://nexus-dashboard-dun-seven.vercel.app/)
 
 ## Sobre o projeto
 
 O NEXUS é uma aplicação web de gestão que centraliza informações importantes de um negócio em uma única plataforma.
 
 O sistema permite administrar clientes, produtos, vendas e despesas, além de acompanhar indicadores financeiros e movimentações por meio de um dashboard intuitivo.
+
+## Demonstração
+
+### Dashboard
+![NEXUS Dashboard](screenshots/dashboard.png)
+
+### Produtos e estoque
+![NEXUS Produtos](screenshots/produtos.png)
+
+### Vendas
+![NEXUS Vendas](screenshots/vendas.png)
+
+### Relatórios
+![NEXUS Relatórios](screenshots/relatorios.png)
 
 ## Funcionalidades
 
@@ -77,4 +91,4 @@ npm run dev
 
 Projeto desenvolvido como parte da minha jornada de aprendizado em desenvolvimento Full Stack.
 
-**Tecnologias, planejamento, implementação e integração desenvolvidos por mim.**(https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+**Tecnologias, planejamento, implementação e integração desenvolvidos por mim.**

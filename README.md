@@ -23,20 +23,6 @@ O NEXUS é uma aplicação web de gestão que centraliza informações important
 
 O sistema permite administrar clientes, produtos, vendas e despesas, além de acompanhar indicadores financeiros e movimentações por meio de um dashboard intuitivo.
 
-## Demonstração
-
-### Dashboard
-![NEXUS Dashboard](screenshots/dashboard.png)
-
-### Produtos e estoque
-![NEXUS Produtos](screenshots/produtos.png)
-
-### Vendas
-![NEXUS Vendas](screenshots/vendas.png)
-
-### Relatórios
-![NEXUS Relatórios](screenshots/relatorios.png)
-
 ## Funcionalidades
 
 - Dashboard com indicadores e gráficos.
